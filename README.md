@@ -14,9 +14,6 @@ Eu gosto de descobrir, aprender e criar coisas para a web. Sou apaixonado por te
 
 </span>
 
-<p align="left">
-</p>
-
 ## Linguagens e Tecnologias
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
