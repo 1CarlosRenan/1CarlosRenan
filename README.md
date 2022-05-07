@@ -1,4 +1,4 @@
-## Olá, sou Desenvolvedor Web & Web Designer! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="23">
+## Olá, sou Desenvolvedor Web & Web Designer! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="22">
 
 <h4><i>Explore mais sobre mim pelo <a href="https://carlosrenan.com/">meu website</a>!</i></h4>
 
