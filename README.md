@@ -1,37 +1,50 @@
-## Olá, sou Desenvolvedor Web | Front-end! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="22">
+## Hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="22">
 
-<h4><i>Explore mais sobre mim pelo <a href="https://carlosrenan.com/">meu website</a>!</i></h4>
-
-## Sobre mim
-Eu gosto de descobrir, aprender e criar coisas para a web. Sou apaixonado por tecnologia devido a sua capacidade de transformar a vida das pessoas e as formas de fazer negócios.
-
-## Status
-    
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=1CarlosRenan&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117)](https://git.io/streak-stats)
-
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1CarlosRenan&langs_count=8&theme=nightowl&hide_border=true&bg_color=0D1117)](https://github.com/1CarlosRenan/github-readme-stats)
-
-</span>
-
-## Linguagens e Tecnologias
-<p align="left"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+<div>
+  <a href="https://www.linkedin.com/in/1carlosrenan/" target="blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <a href="https://carlosrenan.com/" target="blank">
+    <img src="https://img.shields.io/website?color=purple&label=MY&logo=red&logoColor=red&style=for-the-badge&up_message=WEBSITE&url=https%3A%2F%2Fcarlosrenan.com%2F" alt="nathally_22" />
   </a>
-</p>
+  <a href="mailto:carlosrenan96@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
+  </a>
+</div>
+
+### Sobre mim
+
+##
+
+Meu nome é Carlos Renan
+
+- ⭐ Atualmente, atuo como **Desenvolvedor Web | Front-end**
+- 🎒 Graduando em **Engenharia de Software**
+- ⚡ Conheço bem **JS, React JS, boas práticas e consumo de API**
+
+### Principais tecnologias
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="nat-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="nat-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="nat-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="nat-mySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+</div>
+
+##
+
+#### Outras tecnologias
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="nat-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="nat-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="nat-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
+  <img align="center" alt="nat-pg" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+</div>
+
+##
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1carlosrenan&show_icons=true&theme=nightowl&date_format=j%20M%5B%20Y%5D&background=0D1117">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1carlosrenan&layout=compact&theme=nightowl&date_format=j%20M%5B%20Y%5D&background=0D1117">
+</div>
