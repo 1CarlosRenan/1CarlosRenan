@@ -45,6 +45,8 @@ Meu nome é Carlos Renan
 ##
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1carlosrenan&show_icons=true&theme=nightowl&date_format=j%20M%5B%20Y%5D&background=0D1117">
+
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=1CarlosRenan&theme=nightowl&date_format=j%20M%5B%20Y%5D&background=0D1117)](https://git.io/streak-stats)
+    
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1carlosrenan&layout=compact&theme=nightowl&date_format=j%20M%5B%20Y%5D&background=0D1117">
 </div>
