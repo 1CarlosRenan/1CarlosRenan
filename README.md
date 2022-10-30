@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="https://carlosrenan.com/" target="blank">
-    <img src="https://img.shields.io/website?color=purple&label=MY&logo=red&logoColor=red&style=for-the-badge&up_message=WEBSITE&url=https%3A%2F%2Fcarlosrenan.com%2F" alt="carlosrenan.com" />
+    <img src="https://img.shields.io/website?color=purple&label=MY&logo=red&logoColor=red&style=for-the-badge&up_message=SITE&url=https%3A%2F%2Fcarlosrenan.com%2F" alt="carlosrenan.com" />
   </a>
   <a href="mailto:carlosrenan96@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
