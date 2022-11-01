@@ -1,4 +1,4 @@
-## Hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
+## Hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="22">
 
 <div>
   <a href="https://www.linkedin.com/in/1carlosrenan/" target="blank">
