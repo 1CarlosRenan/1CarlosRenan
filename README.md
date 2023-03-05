@@ -48,5 +48,5 @@ Meu nome é Carlos Renan
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=1CarlosRenan&theme=nightowl&date_format=j%20M%5B%20Y%5D&background=0D1117)](https://git.io/streak-stats)
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1carlosrenan&exclude_repo=axios-practice-environment,combustao-e-combustiveis,css-practice-environment,jest-practice-environment,testing-library-practice-environment,storybook-practice-environment&layout=compact&theme=nightowl&date_format=j%20M%5B%20Y%5D&background=0D1117">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1carlosrenan&exclude_repo=axios-practice-environment,combustao-e-combustiveis,css-practice-environment,jest-practice-environment,testing-library-practice-environment,storybook-practice-environment,react-typescript-admin-dashboard,website-animais-fantasticos,coffee-website,playwright-with-js,travel-advisor-app,netflix-clone-react-js,bank-modern-website,admin-dashboard-react-js,three-js-practice-environment&layout=compact&theme=nightowl&date_format=j%20M%5B%20Y%5D&background=0D1117">
 </div>
