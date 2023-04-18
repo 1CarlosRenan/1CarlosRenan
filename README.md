@@ -16,9 +16,10 @@
 
 Meu nome é Carlos Renan
 
-- ⭐ Atualmente, atuo como **Desenvolvedor Web | Front-end**
-- 🎒 Graduando em **Engenharia de Software**
+- ⭐ Atualmente, atuo como **Desenvolvedor Front-end**
+- 🌱 Aprendendo sobre **Next e WebSockets**
 - ⚡ Conheço bem **TypeScript, React JS, boas práticas e consumo de API/REST**
+- 🏆 Experiência na **construção de API com Python, Node e Java**
 
 ### Principais tecnologias
 
